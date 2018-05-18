@@ -9,6 +9,18 @@ The only experience I have messing with keyboards is just basic modifications su
 * Keycaps: For now, some thick pbt side printed keycaps I bought off AliExpress that are currently on my unused Corsair K65. I'd like some XDA, DSA, G20, R3 SA or similar profile caps at some point, though.
 * Cables: One(1) TRRS cable and one(1) USB-C to USB-A cable are required.  I am planning on buying a [Monoprice 3' TRRS cable](https://www.walmart.com/ip/Monoprice-Onyx-Series-Auxiliary-3-5mm-TRRS-Audio-Microphone-Cable-3ft/229961580) and a [set of three 6' USB-C Cables](https://www.walmart.com/ip/EEEKit-3-Pcs-6ft-USB-3-1-Type-C-Charging-Cable-Charger-Cord-for-Samsung-Galaxy-S9-S8-S8-Plus-LG-G6-V20-G5-Nexus-5X-6P/705589637) from Walmart.  Maybe try to make one of the USB-C cables coiled too.
 * Soldering Equipment: For soldering the switches to the keyboard. I will be borrowing soldering equipment my father has.
+
+## Cost
+| **Materials** | **Price** |
+|---------------|-----------|
+| PCB           | $44.60    |
+| Switches      | TBD       |
+| Keycaps       | N/A       |
+| Case          | $26.70    |
+| Standoffs     | TBD       |
+| Case Legs     | TBD       |
+| Cables        | $13.67    |
+
 # Plans
 * Get PCB
 * Choose switches
