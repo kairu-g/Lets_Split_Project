@@ -19,4 +19,13 @@ The only experience I have messing with keyboards is just basic modifications su
 
 # Log
 ### 05/17/2018
-Started this log, I joined the group buy on 05/14/2018. Once I figure out how to confirm that my .svg design will be compatible with the PCB, I will go ahead with the Ponoko order.
+Started this log, I joined the group buy on 05/14/2018. Once I figure out how to confirm that my .svg design will be compatible with the PCB, I will go ahead with the Ponoko order. 
+
+I modified the .svg from nicinabox's Let's Split Guide in Inkscape. I moved the bottom middle circle to the upper right of the main board based on pictures of the board.  The guide is based around the Let's Split v2 which is why there is not an upper right circle relative to the rectangle.
+
+##### Let's Split v2 (top) vs Let's Split Eh? (bottom)
+![Let's Split v2](https://camo.githubusercontent.com/30e4685638a88d0773bbdba4811292794c475fc2/687474703a2f2f692e696d6775722e636f6d2f754a50716269422e6a7067)
+For some reason although the Let's Split v2 only has 4 non-switch holes, the plate design in nicinabox's guide had an extra circle just to the right of the bottom left circle. [¯\\\_(ツ)\_/¯](https://qmk.fm/keyboards/lets_split/lets_split_laser.svg)
+
+![Let's Split Eh? PCB](https://cdn.shopify.com/s/files/1/2435/1781/products/LS-Render_1296x.png?v=1525194771)
+And [my edited .svg](https://github.com/kairu-g/Lets_Split_Project/blob/master/lets_split_laser2%20(1).svg)
