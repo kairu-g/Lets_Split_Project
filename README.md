@@ -16,7 +16,7 @@ The only experience I have messing with keyboards is just basic modifications su
 | PCB           | $44.60    |
 | Switches      | TBD       |
 | Keycaps       | N/A       |
-| Case          | $26.70    |
+| Case          | $11.36 (after discount)   |
 | Standoffs     | TBD       |
 | Case Legs     | TBD       |
 | Cables        | $13.67    |
@@ -41,3 +41,6 @@ For some reason although the Let's Split v2 only has 4 non-switch holes, the pla
 
 ![Let's Split Eh? PCB](https://cdn.shopify.com/s/files/1/2435/1781/products/LS-Render_1296x.png?v=1525194771)
 And [my edited .svg](https://github.com/kairu-g/Lets_Split_Project/blob/master/lets_split_laser2%20(1).svg)
+
+### 05/20/2018
+Ordered the sandwich cases yesterday, went with Abrasive Resistant Acrylic and with my discount, paid $11.36. Now need to decide on switches. Debating between Zealios or Box Whites right now, but having never experienced a tactile or clicky switch, it is hard to decide.
