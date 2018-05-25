@@ -46,4 +46,9 @@ And [my edited .svg](https://github.com/kairu-g/Lets_Split_Project/blob/master/l
 Ordered the sandwich cases yesterday, went with Abrasive Resistant Acrylic and with my discount, paid $11.36. Now need to decide on switches. Debating between Zealios or Box Whites right now, but having never experienced a tactile or clicky switch, it is hard to decide.
 
 ### 05/23/2018
-12:37 Ordered the keycaps and switches the day before yesterday. Ended up going with 50 [Kailh BOX Browns](https://kbdfans.cn/products/kaihua-box-switch-blue) and a set of [PBT dye-sub DSA profile ortholinear keycaps](https://kbdfans.cn/products/dsa-40-ortholinear-dye-sub-keycaps-set) from KBDFans. Paid about $40 in all with a $2 discount (had to throw in a single keycap for $0.32 to get the $2 off). I was able to contact customer service and swap the 2u blank with 2x 1u blanks so that it would properly fit the Let's Split Eh?; now all that is left to purchase are the standoff parts.
+Ordered the keycaps and switches the day before yesterday. Ended up going with 50 [Kailh BOX Browns](https://kbdfans.cn/products/kaihua-box-switch-blue) and a set of [PBT dye-sub DSA profile ortholinear keycaps](https://kbdfans.cn/products/dsa-40-ortholinear-dye-sub-keycaps-set) from KBDFans. Paid about $40 in all with a $2 discount (had to throw in a single keycap for $0.32 to get the $2 off). I was able to contact customer service and swap the 2u blank with 2x 1u blanks so that it would properly fit the Let's Split Eh?; now all that is left to purchase are the standoff parts.
+
+### 05/25/2018
+Got the sandwich cases. Unfortunately the holes for the standoffs seem a little off, but not so bad that they are unusable.
+
+![Plates from Ponoko](https://imgur.com/sndyloA)
