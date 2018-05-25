@@ -51,4 +51,4 @@ Ordered the keycaps and switches the day before yesterday. Ended up going with 5
 ### 05/25/2018
 Got the sandwich cases. Unfortunately the holes for the standoffs seem a little off, but not so bad that they are unusable.
 
-![Plates from Ponoko](https://imgur.com/sndyloA)
+![Plates from Ponoko](https://i.imgur.com/sndyloA.jpg)
